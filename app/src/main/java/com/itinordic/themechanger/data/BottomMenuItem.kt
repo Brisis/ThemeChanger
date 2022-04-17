@@ -1,4 +1,4 @@
-package com.itinordic.themechanger
+package com.itinordic.themechanger.data
 
 import androidx.annotation.DrawableRes
 

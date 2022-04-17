@@ -1,8 +1,11 @@
 package com.itinordic.themechanger.ui.theme
 
 import androidx.compose.ui.graphics.Color
+val PrimaryColor = Color(0xff505cf3)
 val TextWhite = Color(0xffeeeeee)
+val TextBlack = Color(0xff454545)
 val DeepBlue = Color(0xff06164c)
+val FadedWhite = Color(0xfff3f6f4)
 val ButtonBlue = Color(0xff505cf3)
 val DarkerButtonBlue = Color(0xff566894)
 val LightRed = Color(0xfffc879a)

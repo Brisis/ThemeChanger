@@ -1,4 +1,4 @@
-package com.itinordic.themechanger.ui
+package com.itinordic.themechanger.ui.data
 
 import androidx.annotation.DrawableRes
 import androidx.compose.ui.graphics.Color

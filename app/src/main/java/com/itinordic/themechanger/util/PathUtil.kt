@@ -1,4 +1,4 @@
-package com.itinordic.themechanger
+package com.itinordic.themechanger.util
 
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Path
